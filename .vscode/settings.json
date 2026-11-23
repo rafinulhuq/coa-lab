@@ -1,0 +1,5 @@
+{
+    "masmtasm.ASM.assembler": "MASM-v6.11",
+    "masmtasm.ASM.emulator": "jsdos-x",
+    "masmtasm.ASM.savefirst": true
+}
